@@ -1,4 +1,4 @@
-🚗 Car Price Prediction
+## 🚗 Car Price Prediction
 
 This project predicts the price of used cars based on various vehicle attributes such as brand, model, year, mileage, fuel type, transmission, and other features.
 The goal is to help users estimate a fair market price using Machine Learning.
