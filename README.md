@@ -1,13 +1,13 @@
-## 🚗 Car Price Prediction
+# 🚗 Car Price Prediction
 
 This project predicts the price of used cars based on various vehicle attributes such as brand, model, year, mileage, fuel type, transmission, and other features.
 The goal is to help users estimate a fair market price using Machine Learning.
 
-📌 Objective
+## 📌 Objective
 
 To build and evaluate multiple regression models that can accurately predict car prices and compare their performance.
 
-🧠 Machine Learning Models Used
+## 🧠 Machine Learning Models Used
 
 Random Forest Regressor
 
@@ -15,14 +15,14 @@ K-Nearest Neighbors (KNN) Regressor
 
 Random Forest outperformed KNN due to better handling of non-linear relationships and varied feature scales.
 
-📊 Model Performance
+## 📊 Model Performance
 Model	R² Score	RMSE	MAE
 Random Forest	XX.XX	XXXX	XXX
 KNN	XX.XX	XXXX	XXX
 
 (Replace XX with your actual results)
 
-🧾 Dataset
+## 🧾 Dataset
 
 The dataset contains various car-related attributes, including:
 
@@ -43,7 +43,7 @@ Owner details
 
 (Mention dataset source if applicable)
 
-🔄 Workflow
+## 🔄 Workflow
 
 Loaded and inspected dataset
 
@@ -67,7 +67,7 @@ Model evaluation & comparison
 
 Prediction on new samples
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python
 
